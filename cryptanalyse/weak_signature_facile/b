@@ -1,0 +1,2 @@
+# This is a demo script. It doesn't do much, but I like it. You can use it ~0!
+with open("flag.txt") as f: print(f.read())
