@@ -18,5 +18,8 @@ https://github.com/Numb3rsProprety/404CTF/
 https://github.com/JackeOLantern/404CTF/
 https://github.com/GerfautGE/404CTF-writeups/
 https://blog.reinom.com/story/ctf/ctf4042022/
+https://gitlab.com/ctfun/ctf-writeups/-/blob/master/404ctf/README.md
+https://github.com/G4vr0ch3/CTFSolvesCollection/tree/main/2.%20404CTF
+https://github.com/pasterp/CTF_WriteUps/tree/main/2022/404CTF
 
 Code source des challenges : https://github.com/HackademINT/404CTF
